@@ -1,1 +1,2 @@
 File 2 text updated qa
+Modified the text file after switching to QA test branch
