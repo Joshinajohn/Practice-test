@@ -1,2 +1,7 @@
 File 1 text updated qa
+<<<<<<< Updated upstream
+=======
+File 1 text story qa
+Editing file one only
+>>>>>>> Stashed changes
 
