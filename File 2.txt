@@ -1,1 +1,2 @@
-File 2 text updated
+File 2 text updated qa
+File 2 text story qa git
