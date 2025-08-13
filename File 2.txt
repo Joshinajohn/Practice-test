@@ -1,2 +1,2 @@
-File 2 text updated qa
+File 2 text updated from QAtestbranch
 Modified the text file after switching to QA test branch
