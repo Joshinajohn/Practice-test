@@ -1,3 +1,3 @@
-File 1 text updated qa
+File 1 text
 Modified File1 after switching to QAtest branch and then commiting to it
 
